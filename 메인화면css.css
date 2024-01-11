@@ -1,0 +1,12 @@
+.bt{
+    height: 70px;
+    width: 200px;
+    border-radius: 32px;
+    font-size: 30px;
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.밑줄제거{
+    text-decoration: none;
+    font-weight:bold;
+}
